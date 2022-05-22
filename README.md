@@ -47,24 +47,6 @@ The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes a
 
 ### Naive Random Oversampling
 
-
-
-* Imbalanced classification report
-
-![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20Imblance%20classification%20report.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
 * See in the figure below the accurancy score equal to: 0.684
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
@@ -78,7 +60,8 @@ As shown in image below the other results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20Confusion%20matrix%20and%20imbalance%20classification%20report.PNG)
 
-## Deliverable 2: SMOTE Oversampling
+## Delivery 2
+### SMOTE Oversampling
 
 ### Results of the use the SMOTEENN Algorithm to Predict Credit Risk
 
