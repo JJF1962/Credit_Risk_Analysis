@@ -24,14 +24,14 @@ It was learned  how to install and  set the proper enviroment melnv, machine lea
 The academic objective was to learn that Machine learning require the  use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. There are many different models—a model is a mathematical representation of something that happens in the real world,Broadly speaking, machine learning can be divided into three learning categories: supervised, unsupervised, and deep. For the class purposes, it was focus only in supervised and unsupervised learning. Saying that we move to present the results.
 
 # Results
-The Challenge consisted in consists of three technical analysis deliverables and a written report:
+The Challenge consisted in three technical analysis deliverables and a written report:
 
 * Deliverable 1: Use Resampling Models to Predict Credit Risk
 * Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 * Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 * Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
-The following models will be used in the analysis: 
+The following models were used to execute this challenge: 
 * Naive Random Oversampling
 * SMOTE Oversampling.
 * Undersampling.
@@ -96,6 +96,7 @@ As shown in image below the other results for the Delivery 1 were:
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 ### Deliver 3 
+
 #### Balanced Random Forest Classifying
 
 Accuracy score: 90%
