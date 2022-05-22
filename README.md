@@ -41,11 +41,12 @@ The following models will be used in the analysis:
 
 For each Deliverable and model a report shows accurancy score, confusion matrix, and clasification report; the scores represent key indicators for the analisis of the balance between sensitivity and precision, allowing to identify and eliminate False Positive and False Negatives.
 For the execution of the Delivery one and two, it was used Credit Risk Resampling Techniques that consisted in the following
-## Deliverable 1: Use Resampling Models to Predict Credit Risk 
+## Deliverable 1 -2: Use Resampling Models to Predict Credit Risk 
+### Deliverable 1
 Consisted in to Read the CSV and Perform Basic Data Cleaning, split the Data into training and testing, oversampling and Naive Random Oversampling
 The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes and methodology, we executed all  the code in  Jupyter Notebook originally named credit_risk_resampling starter-code.ipynb, re-named to credit_risk_resampling.ipynb 
 
-### Naive Random Oversampling
+#### Naive Random Oversampling
 
 * See in the figure below the accurancy score equal to: 0.684
 
@@ -60,10 +61,8 @@ As shown in image below the other results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20Confusion%20matrix%20and%20imbalance%20classification%20report.PNG)
 
-## Delivery 2
-### SMOTE Oversampling
-
-### Results of the use the SMOTEENN Algorithm to Predict Credit Risk
+### Delivery 2
+#### SMOTE Oversampling
 
 * Accuracy score: 64%
 * Precision (High risk): 1%
@@ -74,7 +73,7 @@ As shown in image below the other results for the Delivery 1 were:
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery2%20Smooteenn%20algorithm.PNG)
 
 
-### Undersampling
+#### Undersampling
 
 * Accuracy score: 53%
 * Precision (High risk): 1%
@@ -84,7 +83,7 @@ As shown in image below the other results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery2%20undersampling.PNG)
 
-### Combination (Over and Under) Sampling
+#### Combination (Over and Under) Sampling
 
 * Accuracy score: 53%
 * Precision (High risk): 1%
@@ -96,7 +95,14 @@ As shown in image below the other results for the Delivery 1 were:
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+### Deliver 3 
+#### Balanced Random Forest Classifying
 
+Accuracy score: 68%
+Precision (High risk): 88%
+Precision (Low risk): 100%
+Recall (High risk): 37%
+Recall (low risk): 100%
 
 
 
