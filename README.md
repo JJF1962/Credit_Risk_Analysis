@@ -59,7 +59,7 @@ As shown in image below the other results for the Delivery 1 were:
 
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
-![insert an image]()
+![insert an image (https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20%20(3)%20Combination%20%20balance%20acc%20score%2C%20conf%20matrix%2C%20imbalance%20class%20report.PNG)
 
 The results for Delivery 2 - SMOTE Oversampling, were:
 Accuracy score: 66%
