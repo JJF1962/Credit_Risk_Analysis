@@ -114,11 +114,24 @@ Precision (Low risk): 100%
 Recall (High risk): 65%
 Recall (low risk): 90%
 
-![insert an image]()
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%203%20Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 ## Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
+you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
 
+The Challenge consist in create a  report should contain the following:
+* Overview of the analysis: Explain the purpose of this analysis.
+* Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+* Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
+Starting to summarize The first step was in each model to evaluate and measure accuracy, trying to see results closed  1 (100%). As reviewed during this module the accuracy scores permit to narrow down the analysis, as a coseuencce that permit to  eliminate observations returning too many false returns. Specifically in the credit risk analysis, the percent obtained of low & high isk observations were  identified and are true. The following step was to identify precision, determining how precise predicted low & high risk evaluates to actual results. The last step consisted in to check sensivity (recall),ttempting to balance low & high risk predictors. 
 
 
 # Summary
+* It was a good learning experience, require to think different managing and evaluating data, it was very  intense and I need to continue and reviewing several concept that need more attention and learning from my side.
+* Executing the delivery 3, it was very challenged for me, some codes no ran properly in the Jupyter Notboo in my specific case, derefor, I executed the Delivery 3 in Google Colab editor as shown in the image below:
+
+![This is an image]()
+
+
+* 
