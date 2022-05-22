@@ -48,7 +48,7 @@ The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes a
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
 
-As shown in image below the results for the Delivery 1 were:
+As shown in image below the other results for the Delivery 1 were:
 
 * Presision (High Risk):  1%
 * Precision (Low Risk): 100%
@@ -57,12 +57,16 @@ As shown in image below the results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20Confusion%20matrix%20and%20imbalance%20classification%20report.PNG)
 
-
-
-
 ## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
+![insert an image]()
 
+The results for Delivery 2 - SMOTE Oversampling, were:
+Accuracy score: 66%
+Precision (High risk): 1%
+Precision (Low risk): 100%
+Recall (High risk): 62%
+Recall (low risk): 69%
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
