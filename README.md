@@ -46,6 +46,25 @@ Consisted in to Read the CSV and Perform Basic Data Cleaning, split the Data int
 The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes and methodology, we executed all  the code in  Jupyter Notebook originally named credit_risk_resampling starter-code.ipynb, re-named to credit_risk_resampling.ipynb 
 
 ### Naive Random Oversampling
+
+
+
+* Imbalanced classification report
+
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20Imblance%20classification%20report.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
 * See in the figure below the accurancy score equal to: 0.684
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
