@@ -129,7 +129,7 @@ Starting to summarize The first step was in each model to evaluate and measure a
 
 # Summary
 * It was a good learning experience, require to think different managing and evaluating data, it was very  intense and I need to continue and reviewing several concept that need more attention and learning from my side.
-* Executing the delivery 3, it was very challenged for me, some codes no ran properly in the Jupyter Notboo in my specific case, derefor, I executed the Delivery 3 in Google Colab editor as shown in the image below:
+* Executing the delivery 3, it was very challenged for me, some codes no ran properly in the Jupyter Notebook in my specific case, therefore, I executed the Delivery 3 in Google Colab editor as shown in the image below:
 
 ![This is an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Colab.PNG)
 
