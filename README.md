@@ -71,9 +71,7 @@ As shown in image below the other results for the Delivery 1 were:
 * Recall (High risk): 60%
 * Recall (low risk): 68%
 
-![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20%20(3)%20Combination%20%20balance%20acc%20score%2C%20conf%20matrix%2C%20imbalance%20class%20report.PNG)
-
-![insert an image](https://user-images.githubusercontent.com/97784444/169706771-52a07418-9a14-44c3-87d8-10801a7e8ca7.png)
+![insert an image]()
 
 ### Undersampling
 
