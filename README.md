@@ -48,14 +48,15 @@ The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes a
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
 
-As shown in image below the results for the Delivery one were:
+As shown in image below the results for the Delivery 1 were:
 
 * Presision (High Risk):  1%
 * Precision (Low Risk): 100%
 * Sensitivity - Recall (High Risk): 60%
 * Sensitivity - Recall (High Risk): 68%
 
-![insert an image]()
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20Confusion%20matrix%20and%20imbalance%20classification%20report.PNG)
+
 
 
 
