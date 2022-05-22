@@ -104,7 +104,7 @@ Precision (Low risk): 100%
 Recall (High risk): 37%
 Recall (low risk): 100%
 
-
+![insert an image]() 
 
 
 ## Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
