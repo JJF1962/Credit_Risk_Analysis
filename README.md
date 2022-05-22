@@ -31,7 +31,8 @@ The Challenge consisted in consists of three technical analysis deliverables and
 * Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 * Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
-The following models will be used in the analysis: Naive Random Oversampling
+The following models will be used in the analysis: 
+* Naive Random Oversampling
 * SMOTE Oversampling.
 * Cluster Centroid Undersampling.
 * SMOTEENN Sampling.
@@ -43,9 +44,9 @@ For the execution of the Delivery one and two, it was used Credit Risk Resamplin
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk 
 ### Read the CSV and Perform Basic Data Cleaning
 The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes and methodology, we executed all  the code in  Jupyter Notebook originally named credit_risk_resampling starter-code.ipynb, re-named to credit_risk_resampling.ipynb 
-* See in the figure below the accurancy score equal to: 
+* See in the figure below the accurancy score equal to: 0.684
 
-![insert an image]()
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
 
 ### Split the Data into Training and Testing
 ### Oversampling
