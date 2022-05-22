@@ -92,7 +92,8 @@ As shown in image below the other results for the Delivery 1 were:
 * Recall (High risk): 70%
 * Recall (low risk): 58%
 
-![insert an image]()
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20(4)%20Combination.PNG)
+
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
