@@ -19,7 +19,7 @@ Data: It was  used the LoanStats_2019Q1.csv dataset, and imbalanced-learn and sc
 * from sklearn.metrics import confusion_matrix
 * from imblearn.metrics import classification_report_imbalanced
 
-We learned  how to install and  set the proper enviroment melnv, a machine learning algorithm is used in data analytics, create training and test groups from a given data set, implement the logistic regression, decision tree, random forest, and support vector machine algorithms, interpret the results of the logistic regression, decision tree, random forest, and support vector machine algorithms, compare the advantages and disadvantages of each supervised learning algorithm, determine which supervised learning algorithm is best used for a given data set or scenario ann the use ensemble and resampling techniques to improve model performance.
+We learned  how to install and  set the proper enviroment melnv, machine learning algorithms used in data analytics, create training and test groups from a given data set, implement the logistic regression, decision tree, random forest, and support vector machine algorithms, interpret the results of the logistic regression, decision tree, random forest, compare the advantages and disadvantages of each supervised learning algorithm, determine which supervised learning algorithm is best used for a given data set or scenario and the use ensemble and resampling techniques to improve model performance.
 
 The academic objective was to learn that Machine learning require the  use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. There are many different models—a model is a mathematical representation of something that happens in the real world,Broadly speaking, machine learning can be divided into three learning categories: supervised, unsupervised, and deep. For our purposes, we'll only discuss supervised and unsupervised learning. Saying that we move to present the results.
 
@@ -38,10 +38,11 @@ The following models will be used in the analysis: Naive Random Oversampling
 * Balanced Random Forest Classifying.
 * Easy Ensemble Classifying.
 
-For each Deliverable and model a report shows accurancy score, confusion matrix, and clasification report; the scores represent key indicators for the analizis of the balance between sensitivity and precision, allowing to identify and eliminate False Positive and False Negatives.
+For each Deliverable and model a report shows accurancy score, confusion matrix, and clasification report; the scores represent key indicators for the analisis of the balance between sensitivity and precision, allowing to identify and eliminate False Positive and False Negatives.
 For the execution of the Delivery one and two, it was used Credit Risk Resampling Techniques that consisted in the following
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk 
 ### Read the CSV and Perform Basic Data Cleaning
+The LoanStats_2019Q1.csv dataset was imported
 
 ### Split the Data into Training and Testing
 ### Oversampling
