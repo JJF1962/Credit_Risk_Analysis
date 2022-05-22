@@ -65,7 +65,7 @@ As shown in image below the other results for the Delivery 1 were:
 
 ### Results of the use the SMOTEENN Algorithm to Predict Credit Risk
 
-* Accuracy score: 63%
+* Accuracy score: 64%
 * Precision (High risk): 1%
 * Precision (Low risk): 100%
 * Recall (High risk): 60%
@@ -84,9 +84,15 @@ As shown in image below the other results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery2%20undersampling.PNG)
 
+### Combination (Over and Under) Sampling
 
+* Accuracy score: 53%
+* Precision (High risk): 1%
+* Precision (Low risk): 100%
+* Recall (High risk): 70%
+* Recall (low risk): 58%
 
-
+![insert an image]()
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
