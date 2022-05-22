@@ -131,7 +131,7 @@ Starting to summarize The first step was in each model to evaluate and measure a
 * It was a good learning experience, require to think different managing and evaluating data, it was very  intense and I need to continue and reviewing several concept that need more attention and learning from my side.
 * Executing the delivery 3, it was very challenged for me, some codes no ran properly in the Jupyter Notboo in my specific case, derefor, I executed the Delivery 3 in Google Colab editor as shown in the image below:
 
-![This is an image](https://github.com/JJF1962/Credit_Risk_Analysis)
+![Insert an image](https://github.com/JJF1962/Credit_Risk_Analysis)
 
 * After evaluate the models, the Blanced Random Classifier and the Easy Ensemble shown a high accuracy rate of 90%, while, the  other accuracy scores were below 70%, which I consideredo low , if we are looking to predict credit risk. therefore,  the mentioned models are adquate for prediction of credit risk.
 
