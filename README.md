@@ -1,27 +1,27 @@
 # Overview of the analysis
-The objective of this analysis is to identify a predictive model, that allows manage properly sensitivity (recall) and precision in the data, to predict credit risk with machine learning models, builded and evaluated using Python, pleasee as follows the tools and libraries used during of this module and challenge execution.
+The objective of this analysis is to identify a predictive model, that allows manage properly sensitivity (recall) and precision in the data, to predict credit risk with machine learning models, builded and evaluated using Python, please see as follows the tools and libraries used during of this module and challenge execution.
 
-Tools used: 
-Packages: Python 3.7 and Anaconda packages
-Computer Language: Python.
-The package dependencies are satisfied in our mlenv environment: NumPy, version 1.11 or later, SciPy, version 0.17 or later and 
+Summary of the tools, packages and libraries used: 
+* Packages: Python 3.7 and Anaconda packages
+* Computer Language: Python.
+* The package dependencies are satisfied in the  mlenv environment: NumPy, version 1.11 or later, SciPy, version 0.17 or later and 
 Scikit-learn, version 0.21 or later, obviously it was installed the imbalanced-learn Package.
-Tools: Jupyter Notebook, Colab and Git Hub, additionally it was used big range of libraries such as:
-Data: It was  used the LoanStats_2019Q1.csv dataset, and imbalanced-learn and scikit-learn libraries to perform the analysis. 
-* import warnings (warnings.filterwarnings('ignore'))
-* import numpy as np
-* import pandas as pd
-* from pathlib import Path
-* from collections import Counter
-* !pip install imblearn
-* from sklearn.ensemble import AdaBoostClassifier
-* from sklearn.metrics import balanced_accuracy_score
-* from sklearn.metrics import confusion_matrix
-* from imblearn.metrics import classification_report_imbalanced
+* Tools: Jupyter Notebook, Colab and Git Hub, additionally it was used big range of libraries such as:
+# Data: It was  used the LoanStats_2019Q1.csv dataset, and imbalanced-learn and scikit-learn libraries to perform the analysis. 
+**  import warnings (warnings.filterwarnings('ignore'))
+**  import numpy as np
+**  import pandas as pd
+**  from pathlib import Path
+**  from collections import Counter
+**  !pip install imblearn
+**  from sklearn.ensemble import AdaBoostClassifier
+**  from sklearn.metrics import balanced_accuracy_score
+**  from sklearn.metrics import confusion_matrix
+**  from imblearn.metrics import classification_report_imbalanced
 
-We learned  how to install and  set the proper enviroment melnv, machine learning algorithms used in data analytics, create training and test groups from a given data set, implement the logistic regression, decision tree, random forest, and support vector machine algorithms, interpret the results of the logistic regression, decision tree, random forest, compare the advantages and disadvantages of each supervised learning algorithm, determine which supervised learning algorithm is best used for a given data set or scenario and the use ensemble and resampling techniques to improve model performance.
+It was learned  how to install and  set the proper enviroment melnv, machine learning algorithms used in data analytics, create training and test groups from a given data set, implement the logistic regression, decision tree, random forest, and support vector machine algorithms, interpret the results of the logistic regression, decision tree, random forest, compare the advantages and disadvantages of each supervised learning algorithm, determine which supervised learning algorithm is best used for a given data set or scenario and the use ensemble and resampling techniques to improve model performance.
 
-The academic objective was to learn that Machine learning require the  use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. There are many different models—a model is a mathematical representation of something that happens in the real world,Broadly speaking, machine learning can be divided into three learning categories: supervised, unsupervised, and deep. For our purposes, we'll only discuss supervised and unsupervised learning. Saying that we move to present the results.
+The academic objective was to learn that Machine learning require the  use of statistical algorithms to perform tasks such as learning from data patterns and making predictions. There are many different models—a model is a mathematical representation of something that happens in the real world,Broadly speaking, machine learning can be divided into three learning categories: supervised, unsupervised, and deep. For the class purposes, it was focus only in supervised and unsupervised learning. Saying that we move to present the results.
 
 # Results
 The Challenge consisted in consists of three technical analysis deliverables and a written report:
@@ -108,6 +108,13 @@ Recall (low risk): 90%
 
 #### # Easy Ensemble AdaBoost Classifier
 
+Accuracy score: 90%
+Precision (High risk): 4%
+Precision (Low risk): 100%
+Recall (High risk): 65%
+Recall (low risk): 90%
+
+![insert an image]()
 
 ## Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
