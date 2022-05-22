@@ -98,13 +98,15 @@ As shown in image below the other results for the Delivery 1 were:
 ### Deliver 3 
 #### Balanced Random Forest Classifying
 
-Accuracy score: 68%
-Precision (High risk): 88%
+Accuracy score: 90%
+Precision (High risk): 4%
 Precision (Low risk): 100%
-Recall (High risk): 37%
-Recall (low risk): 100%
+Recall (High risk): 65%
+Recall (low risk): 90%
 
-![insert an image]() 
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Deliver%203%20Balance%20Random%20Forest%20Classifying.PNG) 
+
+#### # Easy Ensemble AdaBoost Classifier
 
 
 ## Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
