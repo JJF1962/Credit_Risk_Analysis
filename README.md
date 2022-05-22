@@ -71,7 +71,8 @@ As shown in image below the other results for the Delivery 1 were:
 * Recall (High risk): 60%
 * Recall (low risk): 68%
 
-![insert an image]()
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery2%20Smooteenn%20algorithm.PNG)
+
 
 ### Undersampling
 
