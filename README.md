@@ -42,7 +42,10 @@ For each Deliverable and model a report shows accurancy score, confusion matrix,
 For the execution of the Delivery one and two, it was used Credit Risk Resampling Techniques that consisted in the following
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk 
 ### Read the CSV and Perform Basic Data Cleaning
-The LoanStats_2019Q1.csv dataset was imported
+The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes and methodology, we executed all  the code in  Jupyter Notebook originally named credit_risk_resampling starter-code.ipynb, re-named to credit_risk_resampling.ipynb 
+* See in the figure below the accurancy score equal to: 
+
+![insert an image]()
 
 ### Split the Data into Training and Testing
 ### Oversampling
