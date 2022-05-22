@@ -44,6 +44,8 @@ For the execution of the Delivery one and two, it was used Credit Risk Resamplin
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk 
 Consisted in to Read the CSV and Perform Basic Data Cleaning, split the Data into training and testing, oversampling and Naive Random Oversampling
 The LoanStats_2019Q1.csv dataset was imported and cleaned using specific codes and methodology, we executed all  the code in  Jupyter Notebook originally named credit_risk_resampling starter-code.ipynb, re-named to credit_risk_resampling.ipynb 
+
+### Naive Random Oversampling
 * See in the figure below the accurancy score equal to: 0.684
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20balaced%20accurancy%20score.%20PNG.PNG)
@@ -57,16 +59,19 @@ As shown in image below the other results for the Delivery 1 were:
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%201%20Confusion%20matrix%20and%20imbalance%20classification%20report.PNG)
 
-## Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+## Deliverable 2: SMOTE Oversampling
+
+### Results of the use the SMOTEENN Algorithm to Predict Credit Risk
+
+Accuracy score: 63%
+Precision (High risk): 1%
+Precision (Low risk): 100%
+Recall (High risk): 60%
+Recall (low risk): 68%
 
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%202%20%20(3)%20Combination%20%20balance%20acc%20score%2C%20conf%20matrix%2C%20imbalance%20class%20report.PNG)
 
-The results for Delivery 2 - SMOTE Oversampling, were:
-Accuracy score: 66%
-Precision (High risk): 1%
-Precision (Low risk): 100%
-Recall (High risk): 62%
-Recall (low risk): 69%
+
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
