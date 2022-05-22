@@ -34,7 +34,7 @@ The Challenge consisted in consists of three technical analysis deliverables and
 The following models will be used in the analysis: 
 * Naive Random Oversampling
 * SMOTE Oversampling.
-* Cluster Centroid Undersampling.
+* Undersampling.
 * SMOTEENN Sampling.
 * Balanced Random Forest Classifying.
 * Easy Ensemble Classifying.
@@ -117,7 +117,6 @@ Recall (low risk): 90%
 ![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery%203%20Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 ## Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
-you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
 
 The Challenge consist in create a  report should contain the following:
 * Overview of the analysis: Explain the purpose of this analysis.
