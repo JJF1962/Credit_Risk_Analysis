@@ -82,7 +82,7 @@ As shown in image below the other results for the Delivery 1 were:
 * Recall (High risk): 61%
 * Recall (low risk): 45%
 
-![insert an image](
+![insert an image](https://github.com/JJF1962/Credit_Risk_Analysis/blob/main/Images/Delivery2%20undersampling.PNG)
 
 
 
